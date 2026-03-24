@@ -6,11 +6,11 @@ Auto-generated from all feature plans. Last updated: 2025-12-24
 
 Before implementing any feature:
 
-1. Review the skills table below and read relevant documentation in `.github/skills/`
+1. Review the skills table below and read relevant documentation in `.claude/skills/`
 2. Apply skills that match your task (e.g., component-reuse before creating UI)
 3. Follow skill workflows to prevent common mistakes
 
-This project uses Agent Skills for specialized workflows. See `.github/skills/`:
+This project uses Agent Skills for specialized workflows. See `.claude/skills/`:
 
 | Skill                 | Purpose                                              | When to Use                                                                  |
 | --------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------- |
