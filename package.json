@@ -40,9 +40,7 @@
     "db:setup": "npm run db:push && npm run db:seed",
     "db:studio": "prisma studio --schema=packages/shared/prisma/schema.prisma",
     "storybook": "npm run storybook --workspace=packages/client",
-    "build-storybook": "npm run build-storybook --workspace=packages/client",
-    "figma:parse": "npm run figma:parse --workspace=packages/client",
-    "figma:publish": "dotenv -- npm run figma:publish --workspace=packages/client"
+    "build-storybook": "npm run build-storybook --workspace=packages/client"
   },
   "dependencies": {
     "zod": "^3.23.8"

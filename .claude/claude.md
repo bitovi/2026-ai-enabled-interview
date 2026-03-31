@@ -12,10 +12,10 @@ Before implementing any feature:
 
 This project uses Agent Skills for specialized workflows. See `.claude/skills/`:
 
-| Skill                 | Purpose                                              | When to Use                                                                  |
-| --------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------- |
-| `figma-design-react`  | Design React components from Figma files             | When analyzing Figma designs to propose component architecture and props API |
-| `create-react-modlet` | Create React components following the modlet pattern | When creating any component in `packages/client/src/components/`             |
+| Skill                     | Purpose                                              | When to Use                                                                       |
+| ------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------- |
+| `screenshot-design-react` | Design React components from screenshot files        | When analyzing screenshot designs to propose component architecture and props API |
+| `create-react-modlet`     | Create React components following the modlet pattern | When creating any component in `packages/client/src/components/`                  |
 
 ## Package-Specific Instructions
 

@@ -63,21 +63,6 @@ The component has 20 total variant combinations:
 | Destructive | Default   | Focus   | 162:17784  |
 | Destructive | Round     | Focus   | 757:121999 |
 
-### Code Connect Mappings
-
-All variants show the same pattern:
-
-```tsx
-<Badge variant="[variant]" roundness="[roundness]">
-  Label
-</Badge>
-```
-
-Where:
-
-- `variant`: "primary" | "secondary" | "outline" | "ghost" | "destructive"
-- `roundness`: "default" | "round"
-
 ### Typography & Styling
 
 **Text Style:** paragraph mini/bold

@@ -80,14 +80,6 @@ N/A - Component has no boolean toggle properties in Figma
 - Cancel button on left, Primary on right
 - Auto-width buttons with spacing
 
-## Code Connect Mapping
-
-This component maps to two Figma variant nodes:
-- Desktop: node-id `139:11940`
-- Mobile: node-id `139:11939`
-
-Mapping translates Figma's `Type` variant to component's `type` prop with lowercase values.
-
 ## Usage
 
 ```tsx

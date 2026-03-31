@@ -160,4 +160,3 @@ When implementing, ensure:
 
 - **create-react-modlet**: Use this to scaffold the Badge modlet structure
 - **figma-implement-component**: Use this to implement the Badge component from this analysis
-- **figma-connect-component**: After implementation, create Code Connect mapping back to Figma
